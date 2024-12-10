@@ -18,6 +18,11 @@
 ## 支持批量下载
 支持批量下载，同时会下载一个含有文章标题与摘要的txt文件，便于内容发布。
 
+## 一键部署到Vercel
+
+你可以通过点击以下按钮一键部署到Vercel：
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yourusername/article2card)
 
 ## 更换背景图
 - 替换`/assets/img/thumb1`文件下的`cover-card-default`和`detail-card-default`即可（需为png格式）
